@@ -1,0 +1,5 @@
+Comparacion,Tipo_Analisis,Max_Plantarflexion,Peak_Descent_Vel,Peak_Return_Vel,Max_Acceleration,Acc_Variability,Max_Inversion,Max_Eversion,Inv_Ev_ROM
+INJ: ST vs CT,Intrasujeto,0.1,1,0.7,1,0.7,0.7,0.7,1
+CTRL: ST vs CT,Intrasujeto,0.7,0.7,0.7,0.7,1,1,1,0.7
+ST: INJ vs CTRL,Intersujeto,0.7,0.7,1,0.7,0.7,0.1,0.4,0.7
+CT: INJ vs CTRL,Intersujeto,0.1,0.7,0.1,1,0.4,0.1,0.1,0.7

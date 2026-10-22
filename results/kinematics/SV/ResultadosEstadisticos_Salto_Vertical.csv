@@ -1,0 +1,5 @@
+Comparacion,Tipo_Analisis,Altura_Salto_cm,Delta_X_mm,Delta_Y_mm,Distancia_Total_cm,Pico_Vel_Empuje,Pico_Vel_Aterrizaje,Acc_Impacto,Tiempo_Estabilizacion
+INJ: ST vs CT,Intrasujeto,1,0.7,0.4,1,0.1,0.1,0.1,0.7
+CTRL: ST vs CT,Intrasujeto,0.7,0.1,0.4,0.7,0.1,0.1,0.2,0.1
+ST: INJ vs CTRL,Intersujeto,0.4,0.1,0.2,1,0.1,0.7,0.4,1
+CT: INJ vs CTRL,Intersujeto,0.1,0.4,0.4,0.7,0.4,0.7,1,0.1

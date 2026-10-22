@@ -1,0 +1,6 @@
+# Raw EMG / force-plate / Vicon recordings are personal data and are not distributed
+InputData/
+*.mp4
+*.avi
+*.asv
+*.mat
